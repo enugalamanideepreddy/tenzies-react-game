@@ -77,4 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-You can check game @ https://enugalamanideepreddy.github.io/tenzies-react-game/
+# You can check game @ https://enugalamanideepreddy.github.io/tenzies-react-game/
